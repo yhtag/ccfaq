@@ -1,0 +1,88 @@
+body
+{background:url(../images/background%20rainbow.png);
+background-attachment:fixed;
+background-repeat:no-repeat;}
+
+#table
+{background:url(../images/Backgro;und%201.png)
+}
+
+#footer
+{background:url(../images/footercall.png);
+height:50px;
+text-align:center;
+font-family:"Times New Roman", Times, serif;
+font-size:18px;
+color:#FF0;}
+
+.marquee
+{background:#06F;
+height:30px;
+font-family:"Times New Roman", Times, serif;
+font-size:18px;
+color:#FF0;}
+
+.header
+{font-family:"Times New Roman", Times, serif;
+font-size:33px;
+color:#00F;
+text-align:center;
+font-weight:bold;
+font-style:normal;}
+
+.photo
+{border-radius:10px 0px 10px 0px;
+border-color:#CF0 solid 2px;
+}
+
+.image
+{border-style:outset;
+border-radius: 30%;
+border-color:#00C;
+}
+
+#font
+{font-family:Pyidaungsu, "comic Sans MS";
+font-size:17px;
+color:#333;
+font-style:normal;
+font-weight:bold;
+text-align:justify;}
+
+.title
+{font-family:"Times New Roman", Times, serif;
+font-size:18px;
+color:#03F;
+text-align:center;
+font-weight:bold;
+font-style:normal
+}
+
+.tablefontcolor
+{font-family:Pyidaungsu, "Comic Sans MS";
+font-size:22px;
+color:#3CF;
+text-align:center;
+font-weight:bold;
+font-style:normal;
+}
+
+.tablefontsize
+{font-family:Pyidaungsu, "Comic Sans MS";
+font-size:13px;
+color:#03F;
+font-style:normal;
+font-weight:bold;
+text-align:justify;
+}
+
+#fontbigsize
+{font-family:"comic Sans MS", Pyidaungsu, "Times New Roman";
+font-size:24px;
+color:#039;
+font-style:normal;
+font-weight:bold;
+text-align:justify;
+}
+
+
